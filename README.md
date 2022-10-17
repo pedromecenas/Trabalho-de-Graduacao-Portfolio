@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/46054230?s=400&u=89f010c9d628f85bf4b5f15f7f76043bf38a8cce&v=4" width="200"/>
 
-Desde Criança me interessei pela área de Tecnologia da Informação, mas foi em 2019 em que ingressei de vez nessa vida, quando entrei na fatec, e na área de Frontend em que teve meu maior interesse.
+Desde Criança me interessei pela área de Tecnologia da Informação, mas foi em 2019 em que ingressei de vez nessa vida, quando entrei na fatec, e na área de Frontend em que teve meu maior interesse. Fiz alguns estágios, mas nada muito relevante, estou a procura de estagio atualmente.
 Esse portifólio visa agrupar todos os projetos em que participei durante meu tempo acadêmico sendo aluno da Fatec Prof.Jessen Vidal e apresentar cada um de forma cronológica.
 
 ## Meus Projetos
