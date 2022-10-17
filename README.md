@@ -10,7 +10,10 @@ Esse portifólio visa agrupar todos os projetos em que participei durante meu te
 ## Meus Projetos
 
 ### 2019-2
-[SmartTAG](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202019-2%20SmartTag.md/API%202019-2.SmartTag.md)
+[SmartTAG](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202020-1.SmartData/API%202020-1.SmartData.md)
+[SmartData](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202020-1.SmartData/API%202020-1.SmartData.md)
+[JumboETL](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202020-2-JumboETL/API%202020-2-JumboETL.md)
+[EasyATA](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202021-1-EasyAta/API%202021-1-EasyAta.md)
 
 ## Meus Principais Conhecimentos
 - Linguagens de Programação
