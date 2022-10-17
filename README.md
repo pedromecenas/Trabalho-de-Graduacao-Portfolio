@@ -10,7 +10,7 @@ Esse portifólio visa agrupar todos os projetos em que participei durante meu te
 ## Meus Projetos
 
 ### 2019-2
-[SmartTAG](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202020-1.SmartData/API%202020-1.SmartData.md)
+[SmartTAG](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202019-2%20SmartTag/API%202019-2.SmartTag.md)
 
 ### 2020-1
 [SmartData](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202020-1.SmartData/API%202020-1.SmartData.md)
