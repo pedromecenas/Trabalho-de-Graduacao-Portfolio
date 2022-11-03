@@ -18,6 +18,12 @@ Esse portifólio visa agrupar todos os projetos em que participei durante meu te
 ### 2020-2
 [JumboETL](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202020-2-JumboETL/API%202020-2-JumboETL.md)
 
+### 2021-1
+[EasyAta](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202021-1-EasyAta/API%202021-1-EasyAta.md)
+
+### 2021-2
+[OnlyMotors](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202021-2-OnlyMotors/API%202021-2.OnlyMotors.md)
+
 
 ## Meus Principais Conhecimentos
 - Linguagens de Programação
