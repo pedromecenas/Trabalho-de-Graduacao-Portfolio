@@ -24,6 +24,8 @@ Esse portifólio visa agrupar todos os projetos em que participei durante meu te
 ### 2021-2
 [OnlyMotors](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202021-2-OnlyMotors/API%202021-2.OnlyMotors.md)
 
+### 2022-1
+[PyceMaker](https://github.com/pedromecenas/Trabalho-de-Graduacao-Portifolio/blob/main/API%202022-1%20Pycemaker/API%202022-1%20Pycemaker.md)
 
 ## Meus Principais Conhecimentos
 - Linguagens de Programação
