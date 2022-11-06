@@ -1,12 +1,12 @@
 # Aprendizagem por Projetos Integrados 2021-1
-<img src="API 2022-1 Pycemaker/img_API6/PYCEMAKER_LOGO.png" width="300"/>
+<img src="img_API6/PYCEMAKER_LOGO.png" width="300"/>
 
 No sexto semestre do Curso de Análise e Desenvolvimento de sistemas na FATEC - São José dos Campos, foi identificado pela empresa parceira a necessidade de realizar o desenvolvimento de um software que alertam sobre os riscos de indisponibilidade de seus produtos.
 
 ## Parceiro Acadêmico
 UOL: O UOL é uma empresa brasileira de conteúdo, produtos e serviços de Internet do Grupo UOL PagSeguro. De acordo com o Comscore, o portal ocupa a terceira posição de sites mais visitados da Internet no Brasil, atrás do Google e do Facebook. Ainda de acordo com o Comscore, o UOL é o maior portal do Brasil com mais de 114 milhões de visitantes únicos por mês e 7,4 bilhões de páginas visitadas mensalmente [uol.com.br](https://www.uol.com.br/).
 
-<img src="API 2022-1 Pycemaker/img_API6/UOL_LOGO.png" width="400"/>
+<img src="img_API6/UOL_LOGO.png" width="400"/>
 
 ***
 
@@ -47,7 +47,7 @@ A aplicação fornece os seguintes recursos para o monitoramento e previsão de 
 ### Tecnologias adotadas na solução
 Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 
-<img src="API 2022-1 Pycemaker/img_API6/TECNOLOGIAS_PYCEMAKER.png"/>
+<img src="img_API6/TECNOLOGIAS_PYCEMAKER.png"/>
 
 - [JavaScript](https://www.javascript.com): Linguagem de programação interpretada estruturada;
 - [vue](https://br.vuejs.org/): Framework progressivo para a construção de interfaces de usuário;
