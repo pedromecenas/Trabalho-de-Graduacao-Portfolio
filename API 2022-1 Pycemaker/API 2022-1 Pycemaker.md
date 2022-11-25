@@ -63,7 +63,7 @@ Para obter o resultado esperado, a equipe utilizou as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/): Utilizado para hospedagem de arquivos de imagem.
 
 ### Contribuições Pessoais
-Contribui diretamente para a maioria da documentação, esse semestre foi o mais robusto de todos, e auxiliei para a modelagem de algumas telas do front
+Contribui diretamente para a maioria da documentação como o levantamento de requisitos , burning down, design thinking. Esse semestre foi o mais robusto de todos, e auxiliei para a modelagem de algumas telas do front com o uso do React para a criação do dashboard
 
 #### Hard Skills
 Dentre as habilidades técnicas, obtive o seguinte avanço:
