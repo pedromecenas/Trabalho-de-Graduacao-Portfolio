@@ -87,7 +87,11 @@ Outros:
 
 ### [](https://github.com/DaviNeves0/Portfolio_DaviNeves/blob/master/API%202020-2%20JumboETL%20.md#contribui%C3%A7%C3%B5es-pessoais)Contribuições pessoais
 
-Ao decorrer do semestre e do projeto, junto de outros desenvolvedores eu pude estar presente na criação e modelagem do banco de dados, implementação e aplicação das rotas, criação das funções e bases do código, e fui um dos responsáveis na questão de organização da documentação necessária para o desenvolvimento do projeto. Aprendi e consegui gerenciar, criar e transformar atas de reunião, além de trabalhar no padrão de projeto MVC, que com base em aprendizagens passadas me ajudou bastante em questão de correção de erros e testes de software. Entre as habilidades interpessoais (Soft Skills), consegui cumprir regularmente o que foi proposto pela equipe e estive ajudando outros membros do grupo a solucionarem problemas nas partes em que eles estavam desenvolvendo. O grupo utilizou a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.
+Ao decorrer do semestre e do projeto, junto de outros desenvolvedores eu pude estar presente na criação e modelagem do banco de dados, implementação e aplicação das rotas para a armazenagem das atas no mesmo, criação das funções e bases do código, e fui um dos responsáveis na questão de organização da documentação necessária para o desenvolvimento do projeto. Aprendi e consegui gerenciar, criar e transformar atas de reunião, além de trabalhar no padrão de projeto MVC, que com base em aprendizagens passadas me ajudou bastante em questão de correção de erros e testes de software.
+
+### Soft Skills
+Consegui cumprir regularmente o que foi proposto pela equipe e estive ajudando outros membros do grupo a solucionarem problemas nas partes em que eles estavam desenvolvendo. O grupo utilizou a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.
+
 
 ### [](https://github.com/DaviNeves0/Portfolio_DaviNeves/blob/master/API%202020-2%20JumboETL%20.md#aprendizados-efetivos-hs)Aprendizados Efetivos HS
 
