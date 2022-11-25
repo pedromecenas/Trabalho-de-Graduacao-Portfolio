@@ -70,7 +70,11 @@ Back-End
 
 ### [](https://github.com/DaviNeves0/Portfolio_DaviNeves/blob/master/API%202020-2%20JumboETL%20.md#contribui%C3%A7%C3%B5es-pessoais)Contribuições pessoais
 
-Ao decorrer do semestre e do projeto, pude aprender muito sobre a estruturação essencial na documentação de um projeto. Fui capaz de aprender sobre dados geográficos e georreferenciados, além de trabalhar no padrão de projeto MVC, que na época ajudou bastante em questão de correção de erros e testes de software. Entre as habilidades interpessoais (Soft Skills), consegui cumprir regularmente o que foi proposto pela equipe e estive ajudando outros membros do grupo a solucionarem problemas na parte que eles estavam desenvolvendo. O grupo utilizou a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.
+Ao decorrer do semestre e do projeto, pude aprender muito sobre a estruturação essencial na documentação de um projeto como a fase de levantamentos de requisitos, burning down, distribuição de funções, entre outros. Fui capaz de aprender sobre dados geográficos e georreferenciados, além de trabalhar no padrão de projeto MVC, que na época ajudou bastante em questão de correção de erros e testes de software.
+
+### Soft Skills
+Consegui cumprir regularmente o que foi proposto pela equipe e estive ajudando outros membros do grupo a solucionarem problemas na parte que eles estavam desenvolvendo. O grupo utilizou a metodologia SCRUM para o gerenciamento do tempo, cards e planejamentos.
+
 
 ### [](https://github.com/DaviNeves0/Portfolio_DaviNeves/blob/master/API%202020-2%20JumboETL%20.md#aprendizados-efetivos-hs)Aprendizados Efetivos HS
 
